@@ -6,8 +6,8 @@ The contexts taken into account during training are the parents and children of 
 
 ## Requirements
 
-tensorflow >= 1.4.1
-threading
+* tensorflow >= 1.4.1
+* threading
 
 ## Setup
 
